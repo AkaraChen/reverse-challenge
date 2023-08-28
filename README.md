@@ -7,10 +7,11 @@
 ## 技术栈
 
 1. Next.js
-2. Tailwind CSS
-3. Ant Design
-4. ffmpeg.wasm
-5. 鬼叫能量
+2. React Query
+3. Tailwind CSS
+4. Ant Design
+5. ffmpeg.wasm
+6. 鬼叫能量
 
 ## 用法
 
@@ -35,6 +36,12 @@ BV1JB4y1s7Dk
 4. 打 electron 太屎了，我不想干。
 
 所以这玩意我想不出怎么用了，，，
+
+## 麻了
+
+我真是脑子抽了非要写纯前端实现的，Next.js 和 ffmpeg.wasm 两坨屎折腾的我好累。
+
+我但凡 rust/c++ 会写个桌面应用，我就不用这么折腾了。
 
 ## 鸣谢
 
